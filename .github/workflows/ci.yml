@@ -8,7 +8,7 @@ on:
 
 env:
   AWS_REGION: us-east-1
-  IMAGE_NAME: togglemaster-avaluation
+  IMAGE_NAME: togglemaster-evaluation
 
 jobs:
 
